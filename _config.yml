@@ -12,3 +12,4 @@ github_username:  fs0c13ty
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
